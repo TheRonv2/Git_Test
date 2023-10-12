@@ -1,2 +1,2 @@
 Семинар 3
-git addg
+git add
